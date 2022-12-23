@@ -2,8 +2,8 @@
 	"name": "Code aur chai",
 	"colors": {
 		"editor.background": "#092635e0",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#0ae27d",
+		"editor.foreground": "#31061a",
+		"activityBarBadge.background": "#4aad7f",
 		"sideBarTitle.foreground": "#b92626"
 	},
 	"tokenColors": [
